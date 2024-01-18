@@ -1,6 +1,6 @@
 {
     "default_model": "bluePencilXL_v050.safetensors",
-    "default_refiner": "sd_xl_base_1.0_inpainting_0.1.safetensors",
+    "default_refiner": "realisticVisionV60B1_v60B1InpaintingVAE.safetensors",
     "default_refiner_switch": 0.667,
     "default_loras": [
         [
@@ -42,7 +42,7 @@
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "bluePencilXL_v050.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/bluePencilXL_v050.safetensors",
-        "sd_xl_base_1.0_inpainting_0.1.safetensors": "https://huggingface.co/wangqyqq/sd_xl_base_1.0_inpainting_0.1.safetensors/resolve/main/sd_xl_base_1.0_inpainting_0.1.safetensors"
+        "realisticVisionV60B1_v60B1InpaintingVAE.safetensors": "https://huggingface.co/DIAMONIK7777/Fooocus/resolve/main/realisticVisionV60B1_v60B1InpaintingVAE.safetensors"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
